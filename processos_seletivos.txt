@@ -1,6 +1,0 @@
-sso yp
-sso ypp
-sso teste
-sso teste
-o yapira
- teste
