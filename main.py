@@ -1,5 +1,5 @@
 ''' Author: Luan Trindade'''
-''' Date: 2022-10-14'''
+''' Date: 14-10-2022'''
 ''' Version: 1.0'''
 ''' Description: A bot that can be used to interact with users in Telegram'''
 
