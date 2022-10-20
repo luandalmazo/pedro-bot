@@ -1,3 +1,8 @@
+''' Author: Luan Trindade'''
+''' Date: 2022-10-14'''
+''' Version: 1.0'''
+''' Description: A bot that can be used to interact with users in Telegram'''
+
 import os
 import telebot
 from bs4 import BeautifulSoup
